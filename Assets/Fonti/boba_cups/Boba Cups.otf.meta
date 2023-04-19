@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bc566f50f5599f748bd54d9cb89b967a
+timeCreated: 1681894670
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boba Cups
+  fontNames:
+  - Boba Cups
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
