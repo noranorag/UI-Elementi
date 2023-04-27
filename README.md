@@ -14,9 +14,9 @@ Tēma - Mr. Bean.
 - [x] Toggle Group komponentes lietojums
 - [x] Drop down elementa lietojums
 - [x] Slider elementu lietojums
-- [ ] Audio source integrešana ainā
-- [ ] Scroll view elementa lietojums
-- [ ] Drag and drop funkcionalitātes lietošana
-- [ ] Pārslēgšanās starp ainām
-- [ ] Objektu ģenerēšana
-- [ ] Projekta sagatavošana darbināšanai no dabasvirsmas (.exe)
+- [x] Audio source integrešana ainā
+- [x] Scroll view elementa lietojums
+- [x] Drag and drop funkcionalitātes lietošana
+- [x] Pārslēgšanās starp ainām
+- [x] Objektu ģenerēšana
+- [x] Projekta sagatavošana darbināšanai no dabasvirsmas (.exe)
